@@ -1,6 +1,7 @@
-import React from 'react'
-
 function LoginController(): JSX.Element {
+
+    // here we need to handle both login and signin
+
     return (
         <div>
 
